@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "다음",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.About": {
+    "message": "서비스 소개",
+    "description": "The label for category About in sidebar docs"
+  },
+  "sidebar.docs.category.Feature": {
+    "message": "기능",
+    "description": "The label for category Feature in sidebar docs"
+  },
+  "sidebar.docs.category.Contributing": {
+    "message": "기여",
+    "description": "The label for category Contributing in sidebar docs"
+  }
+}

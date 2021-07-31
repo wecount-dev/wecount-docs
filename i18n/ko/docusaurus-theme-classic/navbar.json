@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "위카운트",
+    "description": "The title in the navbar"
+  },
+  "item.label.About": {
+    "message": "서비스 소개",
+    "description": "Navbar item with label About"
+  },
+  "item.label.Feature": {
+    "message": "기능",
+    "description": "Navbar item with label Feature"
+  },
+  "item.label.Blog": {
+    "message": "블로그",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.GitHub": {
+    "message": "깃허브",
+    "description": "Navbar item with label GitHub"
+  }
+}
