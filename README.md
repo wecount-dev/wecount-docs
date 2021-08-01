@@ -1,6 +1,9 @@
 # Website
 
-This website is built using Docusaurus 2, a modern static website generator.
+[![Deploy Website](https://github.com/wecount-dev/wecount-docs/actions/workflows/ci-deploy.yml/badge.svg)](https://github.com/wecount-dev/wecount-docs/actions/workflows/ci-deploy.yml)
+[![Deploy docs](https://github.com/wecount-dev/wecount-docs/actions/workflows/ci-build.yml/badge.svg)](https://github.com/wecount-dev/wecount-docs/actions/workflows/ci-build.yml)
+
+Documents site for [WeCount](https://wecount.dev).
 
 ### Installation
 
