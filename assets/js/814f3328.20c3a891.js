@@ -1,0 +1,1 @@
+(self.webpackChunkwecount_docs=self.webpackChunkwecount_docs||[]).push([[535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"WeCount is under construction","permalink":"/blog/wecount-under-construction"}]}')}}]);

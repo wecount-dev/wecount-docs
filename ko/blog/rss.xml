@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>WeCount Blog</title>
+        <link>https://docs.wecount.dev/ko/blog</link>
+        <description>WeCount Blog</description>
+        <lastBuildDate>Sun, 01 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WeCount is under construction]]></title>
+            <link>https://docs.wecount.dev/ko/blog/wecount-under-construction</link>
+            <guid>wecount-under-construction</guid>
+            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[dooboolab 개발팀이 위카운트 개발에 착수하였습니다 🏃🏻‍♀️🏃.]]></description>
+        </item>
+    </channel>
+</rss>

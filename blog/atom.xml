@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.wecount.dev/blog</id>
+    <title>WeCount Blog</title>
+    <updated>2021-08-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.wecount.dev/blog"/>
+    <subtitle>WeCount Blog</subtitle>
+    <icon>https://docs.wecount.dev/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WeCount is under construction]]></title>
+        <id>wecount-under-construction</id>
+        <link href="https://docs.wecount.dev/blog/wecount-under-construction"/>
+        <updated>2021-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[dooboolab dev team started working on WeCount web service 🏃🏻‍♀️🏃.]]></summary>
+    </entry>
+</feed>

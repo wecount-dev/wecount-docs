@@ -1,0 +1,1 @@
+(self.webpackChunkwecount_docs=self.webpackChunkwecount_docs||[]).push([[615],{6007:function(t){"use strict";t.exports=JSON.parse('{"wecount":{"allTagsPath":"/ko/blog/tags","slug":"wecount","name":"wecount","count":1,"permalink":"/ko/blog/tags/wecount"},"init":{"allTagsPath":"/ko/blog/tags","slug":"init","name":"init","count":1,"permalink":"/ko/blog/tags/init"}}')}}]);
